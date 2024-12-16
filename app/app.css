@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: linear-gradient(180deg, rgb(117, 81, 194), rgb(255, 255, 255));
+    background: linear-gradient(180deg, rgb(12, 124, 89), rgb(255, 255, 255));
     display: flex;
     font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
     height: 100vh;
@@ -22,13 +22,15 @@ body {
     font-size: 1em;
     font-weight: 500;
     font-family: inherit;
-    background-color: #1a1a1a;
+    background-color: #4682b4ff;
     cursor: pointer;
     transition: border-color 0.25s;
-    color: white;
+    color: #fef9efff;
   }
   button:hover {
-    border-color: #646cff;
+    border-color: #4682b4ff;
+    color: #4682b4ff;
+    background-color: #fef9efff;
   }
   button:focus,
   button:focus-visible {

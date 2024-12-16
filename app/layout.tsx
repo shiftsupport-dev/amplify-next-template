@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Veranderbaan",
-  description: "Veranderbaan biedt je de tools om je carrière te verbeteren.",
+  description: "Veranderbaan biedt je de tools om je carrière te verbeteren. De eerste stap naar een nieuwe carrière!",
 };
 
 export default function RootLayout({
